@@ -1,0 +1,60 @@
+body{
+    background-color: aqua;
+}
+.container-TahapPD{
+    display: flex;
+    flex-direction: row;
+    border : 10px;
+    border-style: solid;
+    margin: auto;
+    padding: 50px 50px;
+    background-color: wheat;
+}
+.container-item-TahapPD{
+    padding: 0;
+    display: block;
+}
+.container-TahapPC{
+    display: flex;
+    flex-direction: row;
+    border : 10px;
+    border-style: solid;
+    margin: auto;
+    padding: 50px 50px;
+    background-color: wheat;
+}
+.container-TahapL{
+    display: flex;
+    flex-direction: row;
+    border : 10px;
+    border-style: solid;
+    margin: auto;
+    padding: 50px 50px;
+    background-color: wheat;
+}
+.container-TahapKS{
+    display: flex;
+    flex-direction: row;
+    border : 10px;
+    border-style: solid;
+    margin: auto;
+    padding: 50px 50px;
+    background-color: wheat;
+}
+.container-item-TahapKS{
+    display: block;
+    padding: 15px 15px;
+}
+.container-TahapPKS{
+    display: flex;
+    flex-direction: row;
+    border : 10px;
+    border-style: solid;
+    margin: auto;
+    padding: 50px 50px;
+    background-color: wheat; 
+}
+.container-item-TahapPKS{
+    display:block;
+    padding: 10px 10px auto;
+}
